@@ -1,0 +1,7 @@
+id,email_subject,email_body,support_reply
+1,Can't log in,I tried resetting my password but it didn’t work.,Please reset your password using this secure link: https://reset.example.com
+2,Reset not working,The password reset link expired.,Please reset your password using this secure link: https://reset.example.com
+3,Need invoice,Please send me the invoice for last month.,Your invoice will be emailed to you within 24 hours.
+4,Invoice copy,Can I get a PDF of my April invoice?,Your invoice will be emailed to you within 24 hours.
+5,Account locked,I can't access my dashboard. It says my account is deactivated.,Your account was deactivated due to inactivity. Please contact support to reactivate.
+6,Access denied,Why does it say I'm not allowed to log in?,Your account was deactivated due to inactivity. Please contact support to reactivate.

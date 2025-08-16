@@ -1,0 +1,143 @@
+[
+  {
+    "examples": [
+      "Can't log in",
+      "Reset not working",
+      "Access denied"
+    ],
+    "resolution": "Please reset your password using this secure link: https://reset.example.com\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Need invoice",
+      "Invoice copy"
+    ],
+    "resolution": "Your invoice will be emailed to you within 24 hours.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Refund status",
+      "Where\u2019s my refund"
+    ],
+    "resolution": "Refunds are processed in 5\u20137 business days. Contact support if it takes longer.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Change email",
+      "Update email ID"
+    ],
+    "resolution": "Please visit your profile settings to update your email address.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Cancel subscription",
+      "Stop my plan"
+    ],
+    "resolution": "You can cancel your subscription anytime via the billing settings.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Upgrade plan",
+      "Switch to premium"
+    ],
+    "resolution": "You can upgrade your plan from the pricing page in your dashboard.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "2FA not working",
+      "Two-factor issue"
+    ],
+    "resolution": "Please reset your 2FA from your security settings page or contact support.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Bug report",
+      "App crash"
+    ],
+    "resolution": "We're sorry for the inconvenience. The issue has been logged for our team to investigate.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Feature request",
+      "New feature idea"
+    ],
+    "resolution": "Thanks for your feedback! We've shared your request with our product team.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Account locked",
+      "Can't access account"
+    ],
+    "resolution": "Please contact support to verify your identity and unlock your account.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Invite team",
+      "Add colleague"
+    ],
+    "resolution": "Use the 'Invite' button on your dashboard to add team members.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Resend confirmation email",
+      "Didn't get verification"
+    ],
+    "resolution": "We've sent a new confirmation email. Please check your inbox and spam folder.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Download invoice",
+      "Previous invoice"
+    ],
+    "resolution": "You can download past invoices from your billing history page.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Demo request",
+      "Product demo"
+    ],
+    "resolution": "Thanks for your interest! Our team will reach out shortly to schedule a demo.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Reactivate account",
+      "Account deactivated"
+    ],
+    "resolution": "You can reactivate your account using the link we emailed or contact support.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Help with integration",
+      "API issue"
+    ],
+    "resolution": "Please refer to our API documentation or reach out with error details.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Update billing info",
+      "Change credit card"
+    ],
+    "resolution": "You can update your billing details from the billing settings page.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Trial expired",
+      "Need trial extension"
+    ],
+    "resolution": "Please reach out to support to request a trial extension.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Login link expired",
+      "Expired token"
+    ],
+    "resolution": "Please request a new login link from the sign-in page.\n\nThanks,\nSupport Team"
+  },
+  {
+    "examples": [
+      "Downgrade plan",
+      "Switch to free plan"
+    ],
+    "resolution": "You can downgrade your plan from the subscription settings. The change takes effect at the end of the billing cycle.\n\nThanks,\nSupport Team"
+  }
+]
